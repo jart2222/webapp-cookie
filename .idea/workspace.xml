@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01570254-9db2-477f-8531-432b631aa442" name="Changes" comment="" />
+    <list default="true" id="01570254-9db2-477f-8531-432b631aa442" name="Changes" comment="dispacher">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aguzman/apiservelt/webapp/headers/controllers/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aguzman/apiservelt/webapp/headers/services/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aguzman/apiservelt/webapp/headers/services/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/aguzman/apiservelt/webapp/headers/controllers/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/aguzman/apiservelt/webapp/headers/controllers/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/aguzman/apiservelt/webapp/headers/controllers/ProductoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/aguzman/apiservelt/webapp/headers/controllers/ProductoServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +59,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.aguzman.apiservelt.webapp.headers.services" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="tomcat" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
